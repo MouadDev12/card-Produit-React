@@ -93,12 +93,6 @@ npm run dev
 
 ---
 
-## 📸 Aperçu (optionnel)
 
-> Ajoutez ici une capture d’écran du composant
-
-```md
-![Product Card Preview](./preview.png)
-```
 
 
